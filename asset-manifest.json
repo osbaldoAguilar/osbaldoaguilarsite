@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/osbaldoaguilar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/osbaldoaguilar/static/js/main.60789332.chunk.js",
+    "main.js.map": "/osbaldoaguilar/static/js/main.60789332.chunk.js.map",
+    "runtime-main.js": "/osbaldoaguilar/static/js/runtime-main.d367c796.js",
+    "runtime-main.js.map": "/osbaldoaguilar/static/js/runtime-main.d367c796.js.map",
+    "static/js/2.f167a666.chunk.js": "/osbaldoaguilar/static/js/2.f167a666.chunk.js",
+    "static/js/2.f167a666.chunk.js.map": "/osbaldoaguilar/static/js/2.f167a666.chunk.js.map",
+    "static/js/3.8378eac1.chunk.js": "/osbaldoaguilar/static/js/3.8378eac1.chunk.js",
+    "static/js/3.8378eac1.chunk.js.map": "/osbaldoaguilar/static/js/3.8378eac1.chunk.js.map",
+    "index.html": "/osbaldoaguilar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/osbaldoaguilar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f167a666.chunk.js.LICENSE.txt": "/osbaldoaguilar/static/js/2.f167a666.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/osbaldoaguilar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d367c796.js",
+    "static/js/2.f167a666.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.60789332.chunk.js"
+  ]
+}
