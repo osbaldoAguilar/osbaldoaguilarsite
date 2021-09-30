@@ -1,7 +1,7 @@
 {
   "name": "osbaldoaguilar",
   "version": "0.1.0",
-  "homepage": "osbaldoaguilar.github.io/osbaldoaguilar",
+  "homepage": "https://osbaldoaguilar.github.io/osbaldoaguilar",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
